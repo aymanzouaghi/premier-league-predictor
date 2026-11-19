@@ -1,0 +1,6 @@
+Average goals scored in the last 5 matches.
+Average goals conceded in the last 5 matches.
+Average shots and shots on target.
+Home performance over the last 5 home matches.
+Away performance over the last 5 away matches.
+Win/draw/loss form
